@@ -1,0 +1,12 @@
+{
+  "name": "rival",
+  "version": "0.0.1",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
